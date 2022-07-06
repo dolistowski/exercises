@@ -1,0 +1,14 @@
+git push --set-upstream origin sardynki
+Przydatne komendy:
+1. mkdir - tworzenie nowego katalogu, czyli folderu
+2. rm - usuwanie pliku
+3. git add . - dodawanie wszystkich plików
+4. git checkout -b - tworzenie nowego brancha
+5. git commit -m - zakomitowanie pliku
+6. git checkout -d - usuwanie brancha
+7. git pull - aktualizacja repozytorium lokalnego z serwera
+8. rm -r - usuwanie katalogu
+9. git push - wypchnięcie na serwer zmian z repozytorium lokalnego
+10. cd - wchodzenie, nawigowanie po katalogach
+11. touch - tworzenie pliku
+12. git status - sprawdzenie statusu brancha, na którym obecnie jesteśmy
